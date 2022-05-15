@@ -1,7 +1,9 @@
+package sortingAlgorithms
+
 class InsertionSort {
     companion object {
         // Time-Space Complexity:
-        // - Space Complexity: O(n) since its an in-place sorting algorithm
+        // - Space Complexity: O(1) since its an in-place sorting algorithm
         // - Time-Complexity: Worst-Case O(n²), Best-Case O(n)
         fun insertionSort(arr: IntArray) {
             // the array is split in two partitions:

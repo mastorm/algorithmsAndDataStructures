@@ -1,4 +1,4 @@
-import InsertionSort.Companion.insertionSort
+import sortingAlgorithms.InsertionSort.Companion.insertionSort
 
 
 fun main(args: Array<String>) {

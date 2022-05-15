@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74c2067c-7e00-4229-8899-dcb2b5ab22d0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/InsertionSort.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/InsertionSort.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/InsertionSort.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sortingAlgorithms/InsertionSort.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SelectionSort.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/sortingAlgorithms/SelectionSort.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +47,11 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="sortingAlgorithms" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
@@ -66,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652631917983</updated>
-      <workItem from="1652631919355" duration="482000" />
+      <workItem from="1652631919355" duration="1066000" />
     </task>
     <servers />
   </component>
