@@ -1,3 +1,4 @@
+import sortingAlgorithms.BubbleSort.Companion.bubbleSort
 import sortingAlgorithms.QuickSort
 
 
@@ -8,7 +9,8 @@ fun main(args: Array<String>) {
 //    insertionSort(sortMe)
 //    InsertionSortTwo.insertionSort(sortMe)
 
-    QuickSort.quickSort(sortMe, 0, sortMe.count() - 1)
+//    QuickSort.quickSort(sortMe, 0, sortMe.count() - 1)
+    bubbleSort(sortMe)
     for (el: Int in sortMe){
         println(el)
     }
