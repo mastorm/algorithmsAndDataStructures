@@ -7,7 +7,7 @@ class BinarySearch {
         fun search(arr: IntArray, search: Int): Int? {
             return binarySearch(arr, search, 0, arr.count() - 1)
         }
-        fun binarySearch(arr: IntArray, search: Int, left: Int, right: Int) : Int? {
+        private fun binarySearch(arr: IntArray, search: Int, left: Int, right: Int) : Int? {
             if(arr[left] > search || arr[right] < search) {
                 return null
             }

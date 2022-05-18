@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74c2067c-7e00-4229-8899-dcb2b5ab22d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/searchAlgorithms/BinarySearch.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/searchAlgorithms/SequentialSearch.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/miscAlgos/Fibonacci.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/searchAlgorithms/BinarySearch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/searchAlgorithms/BinarySearch.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,7 @@
       <updated>1652631917983</updated>
       <workItem from="1652631919355" duration="1778000" />
       <workItem from="1652715651476" duration="5033000" />
-      <workItem from="1652801375797" duration="1576000" />
+      <workItem from="1652801375797" duration="2790000" />
     </task>
     <servers />
   </component>
