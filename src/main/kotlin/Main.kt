@@ -1,4 +1,6 @@
 import miscAlgos.Fibonacci.Companion.fib
+import patterrnMatchingAlgos.Match
+import patterrnMatchingAlgos.NaiveMatcher
 import searchAlgorithms.BinarySearch
 import searchAlgorithms.SequentialSearch.Companion.sequentialSearch
 import sortingAlgorithms.BubbleSort.Companion.bubbleSort
@@ -21,4 +23,15 @@ fun main(args: Array<String>) {
 //        println(el)
 //    }
 //    println(fib(10))
+
+    val haystack = "AAbcdefgAAdde"
+    val pattern = "AA"
+
+    val matches = NaiveMatcher.match(haystack, pattern)
+
+    for (match: Match in matches) {
+        println("Match from position ${match.start} to position ${match.end}")
+    }
+
+
 }
