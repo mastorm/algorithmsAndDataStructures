@@ -24,7 +24,7 @@ fun main(args: Array<String>) {
 //    }
 //    println(fib(10))
 
-    val haystack = "AAbcdefgAAdde"
+    val haystack = "AAaaAA"
     val pattern = "AA"
 
     val matches = NaiveMatcher.match(haystack, pattern)
