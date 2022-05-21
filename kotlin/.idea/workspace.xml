@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="74c2067c-7e00-4229-8899-dcb2b5ab22d0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/patterrnMatchingAlgos/NaiveMatcher.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/patterrnMatchingAlgos/NaiveMatcher.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +77,8 @@
       <workItem from="1652801375797" duration="2790000" />
       <workItem from="1652885224206" duration="834000" />
       <workItem from="1652978439339" duration="3208000" />
-      <workItem from="1653062721120" duration="600000" />
+      <workItem from="1653062721120" duration="1573000" />
+      <workItem from="1653115816931" duration="20000" />
     </task>
     <servers />
   </component>
